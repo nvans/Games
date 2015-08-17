@@ -1,3 +1,4 @@
 # Games
-TicTacToe - Swing interface
+TicTacToe - Swing interface;
+
 WordCatcher - LibGDX library test project
